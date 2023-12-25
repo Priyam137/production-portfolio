@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.575b1f68.css",
+    "main.js": "/static/js/main.df1b821c.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/priyam kumar resume.pdf": "/static/media/priyam kumar resume.9411f00cbb795b00dcad.pdf",
+    "static/media/project3.jpg": "/static/media/project3.446e52eb0cf915413796.jpg",
+    "static/media/profile2.jpg": "/static/media/profile2.ac385a2b1725fbb7c367.jpg",
+    "static/media/contact.jpg": "/static/media/contact.259cf09b38e9ccb322c4.jpg",
+    "static/media/project1.jpg": "/static/media/project1.6f1807cfbffb0dd85e2d.jpg",
+    "static/media/project2.jpg": "/static/media/project2.9355698baab97566b4a4.jpg",
+    "index.html": "/index.html",
+    "main.575b1f68.css.map": "/static/css/main.575b1f68.css.map",
+    "main.df1b821c.js.map": "/static/js/main.df1b821c.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.575b1f68.css",
+    "static/js/main.df1b821c.js"
+  ]
+}
